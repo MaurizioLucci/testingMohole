@@ -1,0 +1,15 @@
+{
+  "name": "lezione01",
+  "version": "1.0.0",
+  "description": "Lezione 01 javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=8081",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maurizio Lucci",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
